@@ -1,5 +1,5 @@
 import { Navbar,Nav,Figure, NavbarBrand,Button } from "react-bootstrap"
-import Indexpage_compo from './indexpage_compo'
+
 import Link from 'next/link'
 
 
@@ -28,7 +28,7 @@ export default function Navbar_compo() {
                     
                 </Nav>
                 
-                <Indexpage_compo/>
+              
             </Navbar>
         </div>
     )

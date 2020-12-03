@@ -430,3 +430,4 @@ Go visit `localhost:3000/api/secret` without logging in, and you will see someth
 I hope you have enjoyed this tutorial and have learned something useful! You can always find the starter code and the completed project in [this GitHub repo](https://github.com/hexrcs/prisma-next-auth).
 
 Also, check out the [Awesome Prisma list](https://github.com/catalinmiron/awesome-prisma) for more tutorials and starter projects in the Prisma ecosystem!
+# AlJazeera_Two
