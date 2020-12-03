@@ -1,0 +1,90 @@
+html,
+body {
+  padding: 0;
+  margin-bottom: 0px;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+.logo{
+  width: 100 px;
+  height: 35px;
+}
+
+.footer{
+    background-color: #D1C4E9;
+    margin:2px auto;
+    padding: 20px 0px 20px 0px;
+}
+address{
+    font-size:80%;
+    margin:0px;
+    color:#0f0f0f;
+}
+
+Image{
+  width:300px;
+  height: 300px;
+  border: solid 1px rgb(2, 31, 32);
+}
+.headerbottom{
+  margin-top: 10px;
+}
+
+.headerbottomnojumbo{
+  margin-top: 150px;
+}
+.copyright{
+  text-align: center;
+}
+/* .jumbotron{
+  color: rgb(17, 29, 141);
+  text-align: center;
+  background-image: url('/insviraat.jpg');
+  min-height: 300px;
+} */
+
+
+#iso{
+  color: darkgreen;
+}
+
+
+h1{
+  color: #0275d8;
+}
+
+#indexcol{
+  margin-top: 40px;
+  margin-left: 20px;
+}
+#abtcol{
+  margin: 10px 20px;
+}
+
+.table{
+  margin:20px;
+}
+
+ 
+
+
+#contact_h1{
+  margin-bottom: 10px;
+  text-transform: uppercase;
+  text-emphasis:bold;
+}
+#flood_lt_fill{
+  width:100%;
+  height: 410px;
+  padding: 10px;
+  margin:20px 20px 20px 0px
+}
